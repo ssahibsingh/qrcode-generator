@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd url-shortener
+  cd qrcode-generator
 ```
 
 Install dependencies
