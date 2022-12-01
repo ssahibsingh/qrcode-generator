@@ -1,9 +1,9 @@
 
-# URL Shortener
+# QR Generator
 A QR Code Generator made with the help of Node.js. Other Technologies used are Express.js and EJS.
 ## Demo
 
-https://gen-qr-code.herokuapp.com/
+https://qrcode.up.railway.app/
 
 
 ## Features
@@ -47,4 +47,5 @@ Start the server
 - [Express.js](https://expressjs.com/)
 - [EJS](https://ejs.co/#docs)
 - [Heroku Node.js](https://devcenter.heroku.com/categories/nodejs-support)
+- [Railway Node.js](https://docs.railway.app/deploy/builds)
 
