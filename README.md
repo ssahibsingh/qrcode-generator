@@ -3,7 +3,7 @@
 A QR Code Generator made with the help of Node.js. Other Technologies used are Express.js and EJS.
 ## Demo
 
-https://qrcode.up.railway.app/
+https://qrcode-xguy.onrender.com/
 
 
 ## Features
@@ -47,5 +47,4 @@ Start the server
 - [Express.js](https://expressjs.com/)
 - [EJS](https://ejs.co/#docs)
 - [Heroku Node.js](https://devcenter.heroku.com/categories/nodejs-support)
-- [Railway Node.js](https://docs.railway.app/deploy/builds)
 
