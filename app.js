@@ -1,6 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const ejs = require('ejs');
 var QRCode = require('qrcode');
 
 const app = express();
@@ -19,6 +18,6 @@ app.post('/', (req, res) => {
     })
 })
 
-app.listen (process.env.PORT || 3000, function () {
-    console.log('listening on 3000');
+app.listen (process.env.PORT || 5000, function () {
+    console.log('listening on', process.env.PORT || 5000);
 })
