@@ -4,8 +4,8 @@ WORKDIR /project/qrcode-generator
 
 COPY package*.json ./
 # RUN npm install
-RUN npm install --frozen-lockfile --production
+RUN npm install
 
 COPY . .
-EXPOSE 8001
+EXPOSE 5000
 CMD ["npm", "start"]
